@@ -1,0 +1,26 @@
+{
+  "name": "InstaSynchP-Themes",
+  "version": "0.0.0",
+  "description": "Collection of themes",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zod-/InstaSynchP-Themes.git"
+  },
+  "keywords": [
+    "InstaSync",
+    "Themes",
+    "Theme"
+  ],
+  "author": {
+    "name": "Julian Hangstörfer",
+    "email": "jhangstoerfer@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zod-/InstaSynchP-Themes/issues"
+  }
+}
